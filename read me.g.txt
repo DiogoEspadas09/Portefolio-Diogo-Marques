@@ -1,1 +1,2 @@
 Primeiro exercicio usando o Git.
+Alteração de um commit.
